@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.00" name="Volkskrieg" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Volkskreig.gstz" dataType="gamesystem" dataId="ac34-fc1e-8131-fb27" dataName="Volkskreig" dataBattleScribeVersion="2.00" dataRevision="4"/>
+    <dataIndexEntry filePath="Volkskreig.gstz" dataType="gamesystem" dataId="ac34-fc1e-8131-fb27" dataName="Volkskreig" dataBattleScribeVersion="2.00" dataRevision="4"/>
+    <dataIndexEntry filePath="Volkssturm.catz" dataType="catalogue" dataId="2388-8513-21e7-e56c" dataName="Volkssturm" dataBattleScribeVersion="2.00" dataRevision="7"/>
+    <dataIndexEntry filePath="Volkssturm.catz" dataType="catalogue" dataId="2388-8513-21e7-e56c" dataName="Volkssturm" dataBattleScribeVersion="2.00" dataRevision="7"/>
+    <dataIndexEntry filePath="Volkssturm.catz" dataType="catalogue" dataId="2388-8513-21e7-e56c" dataName="Volkssturm" dataBattleScribeVersion="2.00" dataRevision="7"/>
+    <dataIndexEntry filePath="Volkssturm.catz" dataType="catalogue" dataId="2388-8513-21e7-e56c" dataName="Volkssturm" dataBattleScribeVersion="2.00" dataRevision="7"/>
+  </dataIndexEntries>
+</dataIndex>
